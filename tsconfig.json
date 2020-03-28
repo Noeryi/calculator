@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ESNEXT",                          
+      "sourceMap": true,                  
+      "outDir": "./build",                      
+      "rootDir": "./src",                     
+      "strict": true,                        
+      "noUnusedLocals": true,                
+      "noUnusedParameters": true,           
+      "noImplicitReturns": true,             
+      "noFallthroughCasesInSwitch": true,   
+      "baseUrl": "./",                    
+      "esModuleInterop": true,               
+      "forceConsistentCasingInFileNames": true 
+    }
+  }
+  
